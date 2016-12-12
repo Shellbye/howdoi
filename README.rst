@@ -1,6 +1,12 @@
 howdoi
 ====================================================
 
+This is the Bing.com version, made for those who can not access Google.com in China.
+-----------------------------------------------------------------
+
+By `shellbye.com <http://shellbye.com>`_.
+-----------------
+
 .. image:: http://imgs.xkcd.com/comics/tar.png
         :target: https://xkcd.com/1168/
 
